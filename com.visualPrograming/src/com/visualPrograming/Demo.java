@@ -5,7 +5,7 @@ public class Demo {
 	private int a = 3;
 	private int b = 0;
 	private int c = 6;
-	private int d = 6;
+	private int d = 1;
 
 
 	public static void main(String[] args) {
