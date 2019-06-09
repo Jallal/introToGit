@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/com.visualPrograming/src/com/visualPrograming/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -139,12 +139,12 @@
       <workItem from="1558402821780" duration="371000" />
       <workItem from="1558403244486" duration="1064000" />
       <workItem from="1560098397204" duration="610000" />
-      <workItem from="1560099665941" duration="524000" />
+      <workItem from="1560099665941" duration="739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2569000" />
+    <option name="totallyTimeSpent" value="2784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -187,7 +187,7 @@
     <entry file="file://$PROJECT_DIR$/com.visualPrograming/src/com/visualPrograming/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
